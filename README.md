@@ -5,4 +5,6 @@ qmake --version : 3.1<br>
 <br>
 Don't forget to add QT += gui widgets in (projectname).pro after initializing with qmake -project <br>
   <br>
-  Not much to say .. Source code is poorly documented. So bear with it
+  Not much to say .. Source code is poorly documented. So bear with it.
+  
+<br><br> Note : By no means, it has no bug or glitch, it just works.
