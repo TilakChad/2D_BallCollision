@@ -14,7 +14,7 @@ It dispatches executables dynamically (unless built qt statically -_- -_-).
 
 <br>
 <br>
-#Brownian Motion
+# Brownian Motion
 For 2D elastic collision, we have assumed 
 <br> m1/m2 = (r1/r2)^2 <br> For sphere, it might be (r1/r2)^3.
 <br>
